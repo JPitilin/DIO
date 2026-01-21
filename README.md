@@ -1,7 +1,7 @@
 # DIO
 Curso - Santander 2025 - Ciência de Dados com Python
 
-# RELATÃRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+# RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Data: 03/05/2026
 Empresa: Abstergo Industries 
@@ -13,22 +13,6 @@ Este relatório apresenta o processo de implementação de ferramentas na empres
 ## Descrição do Projeto
 O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serÃ£o descritas as etapas do projeto:
 
-Etapa 1: 
-- [Nome da ferramenta]
-- [Foco da ferramenta]
-- [DescriÃ§Ã£o de caso de uso]
-
-Etapa 2: 
-- [Nome da ferramenta]
-- [Foco da ferramenta]
-- [DescriÃ§Ã£o de caso de uso]
-
-Etapa 3: 
-- [Nome da ferramenta]
-- [Foco da ferramenta]
-- [DescriÃ§Ã£o de caso de uso]
-
-------------------------------
 Etapa 1:
 
 Nome da ferramenta: Amazon S3 Intelligent-Tiering.
